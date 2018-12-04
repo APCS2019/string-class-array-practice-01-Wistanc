@@ -1,4 +1,5 @@
-
+//past paper 2015
+//Main:String and class
 
 public class HiddenWord{
   private String puzzle;
